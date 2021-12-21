@@ -1,0 +1,26 @@
+body{background-color: green;}
+
+.caja{margin: 10px;}
+
+.rojo{background-color: rgb(226, 143, 143);
+border: 5px solid rgb(218, 37, 37);
+padding: 5px}
+
+.cafe{background-color: rgb(238, 194, 162);
+border: 5px solid rgb(165, 85, 28);
+margin-left: 300px;
+padding: 5px}
+
+.azul{background-color: blue;
+border: 5px dashed cyan;
+margin-left: 150px;
+margin-right:150px;
+padding: 5px}
+
+.blanca{background-color: whitesmoke;
+border: 5px solid black;
+border-radius: 30px;
+padding: 5px}
+
+h1 {text-shadow: rgb(0, 0, 0) 5px 1px;
+color: rgb(255, 255, 255);}

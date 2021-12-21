@@ -1,0 +1,20 @@
+/* Aquí los comentarios van así 
+    Las medidas comunes son: px, %, em, rem  */
+.encabezado{  
+font-size: 72px;
+color: dodgerblue;
+background-color: skyblue;
+/* Nos permite alinear texto */
+text-align: center;}
+
+.texto {
+    color:coral;
+    background-color: darkgreen;
+}
+p {background-color: aquamarine;
+color: brown;}
+
+#parrafo
+{background-color: greenyellow; color: tomato;
+
+}
